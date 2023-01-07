@@ -1,13 +1,33 @@
-Hi, I'm Taha 👋
+<h1 align="center">Hi 👋, I'm Taha</h1>
+<h3 align="center">A Full Stack Developer from Turkey</h3>
 
-## Stats
+- 🔭 I’m currently working on C# .Net
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahamalaldir&layout=compact&theme=onedark)
+- 🌱 I’m currently learning **Javascript, Vue and .Net  to become a full-stack developer.**
 
-## 📫 How to reach me
+- 📫 How to reach me **tevfikhanmalaldir@gmail.com**
 
-You can find and get touch with me on these accounts!
 
-[![Linkedin Badge](https://img.shields.io/badge/tahamalaldir-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tahamalaldir/)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/tahamalaldir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tahamalaldir" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tahamalaldir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tahamalaldir" height="30" width="40" /></a>
 
-[![Twitter Badge](https://img.shields.io/badge/tahamalaldir-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/tahamalaldir/)
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="dotnet" width="40" height="40"/> </a> 
+<a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="redis" width="40" height="40"/> </a> 
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahamalaldir&show_icons=true&locale=en&layout=compact" alt="tahamalaldir" /></p>
